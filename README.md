@@ -4,27 +4,27 @@ A simple and intuitive web-based Currency Converter that helps you convert curre
 
 ## ✨ Features
 ---
-🌐 Convert between any global currency
+- 🌐 Convert between any global currency
 
-🔁 Swap currencies easily with one click
+- 🔁 Swap currencies easily with one click
 
-📈 Live exchange rates displayed
+- 📈 Live exchange rates displayed
 
-💡 User-friendly interface
+- 💡 User-friendly interface
 
-📱 Responsive and minimal UI design
+- 📱 Responsive and minimal UI design
 
 ---
 
 ## 🛠️ Technologies Used
 ---
-HTML5 – Structure
+- HTML5 – Structure
 
-CSS3 – Styling and layout
+- CSS3 – Styling and layout
 
-JavaScript (Vanilla) – Logic and API handling
+- JavaScript (Vanilla) – Logic and API handling
 
-Exchange Rate API – For real-time currency data
+- Exchange Rate API – For real-time currency data
 
 ---
 
@@ -39,17 +39,11 @@ cd YourRepoName
 
 ## 📸 Screenshot
 ---
-![Screenshot] (.Screenshot.png)
+![Screenshot](Screenshot.png)
 
 ## 📁 File Structure
 ---
-CurrencyConverter/
-├── app.js               # Main JavaScript logic
-├── codes.js             # Country/currency code data
-├── index.html           # HTML markup
-├── styles.css           # CSS styling
-├── Screenshot.png       # App UI screenshot
-└── README.md            # Project description
+<pre> ```text CurrencyConverter/ ├── app.js # Main JavaScript logic ├── codes.js # Country/currency code data ├── index.html # HTML markup ├── styles.css # CSS styling ├── Screenshot.png # App UI screenshot └── README.md # Project description ``` </pre> 
 
 
 ## 📝 Note
