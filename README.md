@@ -43,7 +43,13 @@ cd YourRepoName
 
 ## 📁 File Structure
 ---
-<pre> ```text CurrencyConverter/ ├── app.js # Main JavaScript logic ├── codes.js # Country/currency code data ├── index.html # HTML markup ├── styles.css # CSS styling ├── Screenshot.png # App UI screenshot └── README.md # Project description ``` </pre> 
+CurrencyConverter
+- app.js # Main JavaScript logic
+- codes.js # Country/currency code data
+- index.html # HTML markup
+- styles.css # CSS styling
+- Screenshot.png # App UI screenshot
+- README.md # Project description 
 
 
 ## 📝 Note
