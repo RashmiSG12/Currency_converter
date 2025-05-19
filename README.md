@@ -1,4 +1,4 @@
-# 💱 Currency Converter App
+# 💱 Currency Converter
 ---
 A simple and intuitive web-based Currency Converter that helps you convert currency from any country to another using real-time exchange rates.
 
